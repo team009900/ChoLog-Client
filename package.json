@@ -21,7 +21,7 @@
     "axios": "^0.19.2",
     "eslint-plugin-react": "^7.18.3",
     "eslint-plugin-react-hooks": "^2.3.0",
-    "immer": "^5.3.6",
+    "immer": "^8.0.1",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-calendars": "^1.261.0",
